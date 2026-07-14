@@ -1,12 +1,12 @@
 ﻿{
     "firmwares":  {
                       "aidlite-esp32s3n16r8-096oled-wifi":  {
-                                                                "version":  "0.0.16",
-                                                                "url":  "https://github.com/hermannhahn/ai-devices/releases/download/v0.0.16/aidlite-app-v0.0.16.bin"
+                                                                "version":  "0.0.17",
+                                                                "url":  "https://github.com/hermannhahn/ai-devices/releases/download/v0.0.17/aidlite-app-v0.0.17.bin"
                                                             },
                       "aidlite":  {
-                                      "version":  "0.0.16",
-                                      "url":  "https://github.com/hermannhahn/ai-devices/releases/download/v0.0.16/aidlite-app-v0.0.16.bin"
+                                      "version":  "0.0.17",
+                                      "url":  "https://github.com/hermannhahn/ai-devices/releases/download/v0.0.17/aidlite-app-v0.0.17.bin"
                                   }
                   }
 }
